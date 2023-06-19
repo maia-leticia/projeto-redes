@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+
+img{
+    width: 100vw;
+}
+
+a{
+    display: block;
+    background-color: darkred;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover{
+    background-color: red;
+}
